@@ -170,7 +170,7 @@
     let map = L.map('map').setView([41.9981, 21.4254], 13);
     const attribution=
         '&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>';
-    const tileUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}/{api_key}.png?api_key=AAPKe256a217e76f43d18f06949eb181a396jjYCHBWFjV6oiS-DIXt9Q0mcVLT1MyNX8EMzFxzNlfScwgRPgzfBaVXF3XDsOrUq';
+    const tileUrl='https://tile.openstreetmap.org/{z}/{x}/{y}.png';
     const tiles=L.tileLayer(tileUrl,{attribution});
     tiles.addTo(map);
 
