@@ -1,0 +1,934 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "AW30NDzlg07TickxyyKMboyZr90koGCcKmy7BjEDCvsHrMQWe-Jwoo6U0pv8lETHtkvT2gae2KeMQwZGIINoN-wOCcnv4X8IfxtYBG2IxLxjWrM41xzbWmO7nTeBZw15h92uJZhmODG0kakHEFfyx1vWHgHmWSa9DTBxAABuVkC2MREivCNKcr1IxKJiXefsAoPYloGcXfBo3T6DBus4848LkCsiFqv7yOLsApCQ_402ylQv2_KKnJXvkBzF8kTrAFjvsPAWkzJhmNN3CaAhR9wq7GHYQGXtAB032YDf-5YtbQp-Aq3wkyMOmrN4qcYrsu4JITaNnFy98RFIlD7A5PuPgDFG8P9OIaGTIXjyR2NvXjn0YwZ93mizldy4TmkjGxDTeBVGGTa4sVaEL5Cuvfj7wGIrL1iMeV2RhU7IepI76bp0ZisoHRxzZ_KBJ1pUSVIHOiM_5xdIyeC2",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0018173,
+          "lng" : 21.3920576
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00313327989272,
+            "lng" : 21.39339942989272
+          },
+          "southwest" : {
+            "lat" : 42.00043362010727,
+            "lng" : 21.39069977010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Ресторан 14",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116612485050875988291\"\u003esuriya tauk\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDw_M7cIw5DxUBKpZl3AwwbfZclqlf6QhGepW2wuPAU9X5Zw5VmWc4UTZLg5wwd094YVfX_JBk3ThXL1tzSGvxaUBmAt2s2N_9bcW3j73P7lg2GfWfed1L3rJMfKRZR5LIX7PbOfwFFOg1-sI88fxd9j1cgjt3sR-dlcuQ4Kp6HNTQgB",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJc2E0fm0UVBMROTAGYmJYTjc",
+      "plus_code" : {
+        "compound_code" : "292R+PR Skopje",
+        "global_code" : "8GJ3292R+PR"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJc2E0fm0UVBMROTAGYmJYTjc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 247,
+      "vicinity" : "Lundonska, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0015833,
+          "lng" : 21.4014243
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00295057989273,
+            "lng" : 21.40264732989272
+          },
+          "southwest" : {
+            "lat" : 42.00025092010728,
+            "lng" : 21.39994767010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Restaurant „Olive“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1067,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110550371767265154505\"\u003eOlive\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzBEvhCaDKys-RFBgQR_xajc2ijT1sHPw8oqyYEltxXlCQhM8V6IJyvASifqwffx0x9ffinu0wGLzsyVQN1mNBpIzt4B9Ky5aDSn5Ry2Eh_023GbkZWs_1i7zAWi56rYZMfeAg8bdfOhUhODjMUD_OSwWVmOSSs2ytAugvZqDvJ86XV",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJdRtAMGoUVBMR63RbtyT_IyM",
+      "plus_code" : {
+        "compound_code" : "2C22+JH Skopje",
+        "global_code" : "8GJ32C22+JH"
+      },
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "ChIJdRtAMGoUVBMR63RbtyT_IyM",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 231,
+      "vicinity" : "Pariska, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0130406,
+          "lng" : 21.411803
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01438777989272,
+            "lng" : 21.41317467989272
+          },
+          "southwest" : {
+            "lat" : 42.01168812010728,
+            "lng" : 21.41047502010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Fish Restoran",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3087,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107942400854800377617\"\u003eDarko Kovač\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzBpFYKqlkebErM4esxVi8sa6q6_KiP9LKPyd4fOsYwVzd5koWZiVmtSu6aCkoqSbWYvu5tQBqKKpYT-oI8QviWR5QYQ8_tHYrrav3nfwZum_UYWgzCb6VHxXWmwjxFl7kUeavCEkcMzPCAH8Lh7yJZI3gKdBf18-WFsDAPHhtm6NkJ",
+          "width" : 5183
+        }
+      ],
+      "place_id" : "ChIJp2q87VgUVBMRqJ0772ztVtM",
+      "rating" : 4.5,
+      "reference" : "ChIJp2q87VgUVBMRqJ0772ztVtM",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 765,
+      "vicinity" : "2C76+6P7, Skupi 5a, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0138397,
+          "lng" : 21.4058349
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01519177989272,
+            "lng" : 21.40716312989272
+          },
+          "southwest" : {
+            "lat" : 42.01249212010728,
+            "lng" : 21.40446347010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Day and Night Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111612688182861334435\"\u003eDimitrij Bogdanovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzzSXiwTbuxcXryUf6su23mqj-wiHc2uGf_FzvNtXxqfN2bxkK4Iz4Ep23oS8iYqyXQrf7ceGwCwfPbXZze4UQLQg00OnFQst3r8ZUj19Xgcwsg01wtnEXcLww98jMQZe8mQeOt-ev_OFw7I-ZQ5ehnyMb6-tPH2gP45dKl9WJDxTPl",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJl4fHul8UVBMRfleCr4AoraQ",
+      "plus_code" : {
+        "compound_code" : "2C74+G9 Skopje",
+        "global_code" : "8GJ32C74+G9"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJl4fHul8UVBMRfleCr4AoraQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 618,
+      "vicinity" : "ul skupi bb Скопје MK MK"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.00455729999999,
+          "lng" : 21.393919
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00599987989271,
+            "lng" : 21.39529232989272
+          },
+          "southwest" : {
+            "lat" : 42.00330022010727,
+            "lng" : 21.39259267010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Restaurant „Slonče“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115332633819834550968\"\u003eIgor Kambovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzI9Nc9O2GpjRAR3chRJzrqFnpsCmnuDDqSGZf-F6VqppBycW4-jLFWcFs2yB_56UEIiXZ2mFjiElkMn9rNS2NS1_u48Q_dokTXyi3qrBhTWWms_d2eyhFqiSNlbSEgzxv8MlaDYLMGWCckDfgRuTdX49bSm9z2B1X-KklmviXB9DAF",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJNQNKbm4UVBMRai3CF0uWVQA",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "reference" : "ChIJNQNKbm4UVBMRai3CF0uWVQA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 208,
+      "vicinity" : "293V+RH3, Nikola Rusinski, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0039344,
+          "lng" : 21.3985412
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00539857989272,
+            "lng" : 21.39991827989272
+          },
+          "southwest" : {
+            "lat" : 42.00269892010728,
+            "lng" : 21.39721862010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Street Food",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102248963049497377684\"\u003eFilip Petkovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx4jfP5Q_b8_KuVtlS8nUts5c-3IwfnqbkKTvQzLHTGcCoWmplC7bFQRBub1qNAbWZ7klf37nTv-Bse2JtCeEnuWV7t4qz6UdU5lGU7rCo9Xdy0QcvZJyzuuw95Uh3DeGhC-k9vCJ-OzBxFNdl8we5HQ_-cCwauptCf4RlZKtdt3t_Y",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJm6WuVuwVVBMRO-UCpWMt2bY",
+      "plus_code" : {
+        "compound_code" : "293X+HC Skopje",
+        "global_code" : "8GJ3293X+HC"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJm6WuVuwVVBMRO-UCpWMt2bY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 23,
+      "vicinity" : "MK, Nikola Rusinski 3a, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0063238,
+          "lng" : 21.4063765
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00769212989272,
+            "lng" : 21.40756532989272
+          },
+          "southwest" : {
+            "lat" : 42.00499247010728,
+            "lng" : 21.40486567010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Granche Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1801,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102740012220177451999\"\u003eDamjan Karpuzovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwWrfonIJpcqlGoKklCuTDf98rSEMQIxAqyun9klvCgDSwZKuKZ3CmF1hFyebF_zLIue2JGSf-D9hx0ugU7a_T_S4eaDNjaV660LUdwvhxdpxRnpDQ5H-A5H5zuTwQOuuBQbMGvONxRbz-wewlw8X3Is7F8RsGGDio-kxW43LjPBejm",
+          "width" : 1440
+        }
+      ],
+      "place_id" : "ChIJ_Qtns_cVVBMR5cz6vPvUQOM",
+      "plus_code" : {
+        "compound_code" : "2C44+GH Skopje",
+        "global_code" : "8GJ32C44+GH"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ_Qtns_cVVBMR5cz6vPvUQOM",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 22,
+      "vicinity" : "Boulevard 8-mi Septemvri 18, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0003737,
+          "lng" : 21.4019617
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00165552989272,
+            "lng" : 21.40329417989272
+          },
+          "southwest" : {
+            "lat" : 41.99895587010727,
+            "lng" : 21.40059452010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Jadica Restoran",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113292724450249954987\"\u003estefan trajkoski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwpewyBwcJS-aNaW_wkrcDnBro3MVYah36O2Npg1t7Vks4NMhu0yz_2KKy3UZMedk289rWHVjS_D4JRkVWJX_usqIHCg8wZweyA9VV7ol6GxVA4xwsp22j9kOvi5PQTQNmhd5Yj5IQ6TU324bI-XBfKerGSKAU1H9Vljg11Ebw-KvJf",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ-SZFXWoUVBMRMxaBirst_FI",
+      "plus_code" : {
+        "compound_code" : "2C22+4Q Skopje",
+        "global_code" : "8GJ32C22+4Q"
+      },
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "ChIJ-SZFXWoUVBMRMxaBirst_FI",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 194,
+      "vicinity" : "Varsavska 6, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9970317,
+          "lng" : 21.4039734
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99839242989272,
+            "lng" : 21.40522232989272
+          },
+          "southwest" : {
+            "lat" : 41.99569277010728,
+            "lng" : 21.40252267010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Restaurant „Plaza“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2250,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103748703090913513014\"\u003eKemeny S\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwQfDqU-tmfVz3RNydkC2TVy4a5s2GQrWLW5RC7rVIPw_d1eqRR5BlX9Yid4M4Y8xbLN2hEF8MYQFVMNfQVJpvKYtUAC_2bAlL8416_O1qPld4xvmc_HrGMjraDy7QMkq79Tq-KLBD8D6r0qS8fnp4kOIPOzrkqsfvfrFjHEV1hyr_1",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJaTyDAEAUVBMR0lYtDA4fGgc",
+      "plus_code" : {
+        "compound_code" : "XCW3+RH Skopje",
+        "global_code" : "8GH3XCW3+RH"
+      },
+      "rating" : 0,
+      "reference" : "ChIJaTyDAEAUVBMR0lYtDA4fGgc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 0,
+      "vicinity" : "Boulevard 8-mi Septemvri 2, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.003091,
+          "lng" : 21.40025
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00442712989272,
+            "lng" : 21.40169082989272
+          },
+          "southwest" : {
+            "lat" : 42.00172747010728,
+            "lng" : 21.39899117010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Restaurant „Bure“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107942400854800377617\"\u003eDarko Kovač\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyH1PRMM16CAwVwQxKxcFkB_XgJJdjt7pKFhhyHbNmWCEwzA-UKGIlCCTCO69b-h3D_OkEAQ1aqaqfXAVP31aVfFDqNIt1AHz3qG8L7s23sE_rt0U1aXQ8L4dCglMkOXGBTeyNJu9iPTslGOdAnMPyMzFS_xTZ_PiQNIi0h71QOmDrI",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJmVebcGkUVBMR_dMPJAiSYLk",
+      "plus_code" : {
+        "compound_code" : "2C32+63 Skopje",
+        "global_code" : "8GJ32C32+63"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJmVebcGkUVBMR_dMPJAiSYLk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 336,
+      "vicinity" : "Bulevar Partizanski Odredi 62 A/1 -8 C5, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0035659,
+          "lng" : 21.3975575
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00471967989272,
+            "lng" : 21.39885402989272
+          },
+          "southwest" : {
+            "lat" : 42.00202002010727,
+            "lng" : 21.39615437010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Gostilnica Staro Bure",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107942400854800377617\"\u003eDarko Kovač\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDw0JVPMJEmzxV7uZg8GJbXRt1a77h6tAOMGBs6yAEg70vL7KL2N9pwTGRg8zsS-sqnoHX57feAUguPJiMsS9_Ycxc0Bp3pRr7Bf0IDwBD_lj2RJn-JnvB6uFAfgdjwxGJLGxULwv1Vl1E6D4KROKL-5JlB5do58zUWfc7KE2SzGwbBe",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJt5GWrW4UVBMRnpsCumEGew8",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJt5GWrW4UVBMRnpsCumEGew8",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1237,
+      "vicinity" : "293X+C2F, Blvd. Partizanski Odredi, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0016373,
+          "lng" : 21.3923788
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00295752989271,
+            "lng" : 21.39371987989272
+          },
+          "southwest" : {
+            "lat" : 42.00025787010727,
+            "lng" : 21.39102022010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Skara bar",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102458862558504300572\"\u003eAma Esp\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyyargWGgYNulZ9_23uMDMVTALqe5SemuejUN5AAHwUTgN2bFDNPYgvCLx-VQZPn3HEbKkkfhDq8rcJfcw80HovI1T6UO2l5WGqbkvgut038ObFH1KHNI851lroUEBd4-9k9Kk2FS3BTEm57d22S098tpmE9TzXmhb9Up0ZAxsiLtAh",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJqwdieG0UVBMR58MPv58nxPY",
+      "plus_code" : {
+        "compound_code" : "292R+MX Skopje",
+        "global_code" : "8GJ3292R+MX"
+      },
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "ChIJqwdieG0UVBMR58MPv58nxPY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 818,
+      "vicinity" : "Varsavska 70, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9959537,
+          "lng" : 21.4090288
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99727117989272,
+            "lng" : 21.41037047989272
+          },
+          "southwest" : {
+            "lat" : 41.99457152010728,
+            "lng" : 21.40767082010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Taverna „Toscana“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105826397078704141563\"\u003eRoman Zozulya\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzpTLHVZheBX_AZMZEUgYRewJY8Jl9aMMQCt-mcXP8SJmd1hE1H9v0jMxUFADllWVN8gJpsd7fEdElelAe80aqBOMEwmnIgETTNy0g3E91PiwZRs-hnhfWMyVkpufRDYxJizBX3fUlKnnj-rsieJ1IanFpof3biYFZ7aXsz9V713JMx",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJvaP2qEAUVBMRAXU1TOyG5Ng",
+      "plus_code" : {
+        "compound_code" : "XCW5+CJ Skopje",
+        "global_code" : "8GH3XCW5+CJ"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJvaP2qEAUVBMRAXU1TOyG5Ng",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 77,
+      "vicinity" : "Митрополит Теодосиј Гoлоганов 72, Скопје 1000, Mitropolit Teodosij Gologanov 72, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0138925,
+          "lng" : 21.4040634
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01513187989272,
+            "lng" : 21.40540697989272
+          },
+          "southwest" : {
+            "lat" : 42.01243222010728,
+            "lng" : 21.40270732010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Mezzo Lounge",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2240,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103748703090913513014\"\u003eKemeny S\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwNLYitr86rssnPrULYvIxzurmzB84D4XVsmKV4yWPCjkLmh6rPOnREioddBD_OTj9jMNBgQJK16IU_S704yRD6Cn-t-7t1kHas0uQz59keCS_raqARqsA93Ci7Ho5qrFLxVBhePhwSoFhwTueoiISikpISmZBr87ugMhyn19LmYlSr",
+          "width" : 3968
+        }
+      ],
+      "place_id" : "ChIJa6YONr0VVBMR0dyFByUOSmE",
+      "rating" : 3.6,
+      "reference" : "ChIJa6YONr0VVBMR0dyFByUOSmE",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 5,
+      "vicinity" : "2C73+HJ4, Skupi, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0095889,
+          "lng" : 21.4098386
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01087277989272,
+            "lng" : 21.41116382989272
+          },
+          "southwest" : {
+            "lat" : 42.00817312010728,
+            "lng" : 21.40846417010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Balkanika Rustikana",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113796694298895834143\"\u003eZoran Trajkovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyleFkSQFqIZV8I1uSgEIVUep8oGqQxu_OUY8lQgu3yFRabhAqtvjw1qxJO4IK4GgkozdVz6tFT72WMHwbJn-UlscFts4eD8Lm7VGTVDhB6KHWdGCcyf2zG0QVtaPzWc24kd12XmDM6Jt8lnKP0a_eAJNUXjRWCCplGiHSBLnaY0v5J",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJ6f9m-FsUVBMRN-FCWkefUpA",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "reference" : "ChIJ6f9m-FsUVBMRN-FCWkefUpA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 252,
+      "vicinity" : "2C55+RWP, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.00460150000001,
+          "lng" : 21.3936032
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00607362989272,
+            "lng" : 21.39498267989272
+          },
+          "southwest" : {
+            "lat" : 42.00337397010728,
+            "lng" : 21.39228302010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Restoran Bure Srna",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 5276,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105233439099682296498\"\u003eZ.M. Todorovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwDPqhudalRdi9z83iNNI1aUuuuT3CQ-9GT_uYV_a3ig9fmWUBI5FR9nPhnEH9zTBivgjeNtCf1aEL00UlCYy6Gnh_W3nYOl4ZR_DSi7IkJKyKlHXOb23ydKttf74sE0k2bewQ2Di8cokOOoL1mLDeRYEMbYSJ5Nq9H5cj8vQsgqsq4",
+          "width" : 4248
+        }
+      ],
+      "place_id" : "ChIJYcgTbG4UVBMRPCAz3xlaf10",
+      "plus_code" : {
+        "compound_code" : "293V+RC Skopje",
+        "global_code" : "8GJ3293V+RC"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJYcgTbG4UVBMRPCAz3xlaf10",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 184,
+      "vicinity" : "MK, Nikola Rusinski, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0059826,
+          "lng" : 21.4108725
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00731672989272,
+            "lng" : 21.41235147989272
+          },
+          "southwest" : {
+            "lat" : 42.00461707010727,
+            "lng" : 21.40965182010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Lyra",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3648,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105743759174753063033\"\u003eBojan Angelovski Google Trusted\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzznjI0Q-cB6H3US60GzoOUhsPKPBwfehRCTvj-zvOJInYyFb338ZOwn_jraUSKMap2v3OUoCoZXc3AycKrmp5BXA1hYYcuJ9JZeykgsAVsW0Nweo6cgdKg3y34tyzXzXbzRfQn9y0M31BGDcZ7yhE9PiKcQgzHq0bv556BLY0qctNL",
+          "width" : 5472
+        }
+      ],
+      "place_id" : "ChIJ8WGmRlsUVBMRmvZsAyacE7w",
+      "plus_code" : {
+        "compound_code" : "2C46+99 Skopje",
+        "global_code" : "8GJ32C46+99"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJ8WGmRlsUVBMRmvZsAyacE7w",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 534,
+      "vicinity" : "Nikola Tesla 11, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9973825,
+          "lng" : 21.4086924
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99873232989273,
+            "lng" : 21.41004222989272
+          },
+          "southwest" : {
+            "lat" : 41.99603267010728,
+            "lng" : 21.40734257010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Alka Skopje",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 981,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117003667125691549083\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwQaFsJ8k3xla3hcmlUvuh1QRE76cTUJ0XPN_DMCEHB4Gdgy5atyMjJhW9zLvj3jTSdmcgqC6e4iA9KjXXNNz4a76NFV7I_LTfcrFsJCaafekEorsKNZCcUx_PtdLy5TaazDjv8xgI5pwZaUhSjtWA0KXiYuvbMWhT_lHUTMrV3dFH0",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJBRUvN0wVVBMRz3zF6ttqAc8",
+      "plus_code" : {
+        "compound_code" : "XCW5+XF Skopje",
+        "global_code" : "8GH3XCW5+XF"
+      },
+      "rating" : 0,
+      "reference" : "ChIJBRUvN0wVVBMRz3zF6ttqAc8",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 0,
+      "vicinity" : "Ankarska 21, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9999603,
+          "lng" : 21.4073137
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00130367989271,
+            "lng" : 21.40867397989272
+          },
+          "southwest" : {
+            "lat" : 41.99860402010727,
+            "lng" : 21.40597432010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Zlatno Grne",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1836,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101949747132580898513\"\u003eGoran Andrevski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwpJ4UJv7pe8DYlL6ld-AcpVLCh-MnGqwW2wkdyqjwJ0mo9y1LouBBUxC0UcwP9rD3-93ZSZARL1I5i4Mfxgm43-yzeH3ZkqOat9gEkBbBtQco1b0tol9X6YpuRrvEcGJOWCEBbpe3jarOnQuKmsSJFMKffMGTMMqQ-AYZG4S0_4KH6",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJZ9feDEEUVBMRk5a3_ZLLJDo",
+      "rating" : 4.7,
+      "reference" : "ChIJZ9feDEEUVBMRk5a3_ZLLJDo",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6,
+      "vicinity" : "XCX4+WWV, New Delhi Rd, City of Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0044784,
+          "lng" : 21.3947412
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00589877989272,
+            "lng" : 21.39610897989272
+          },
+          "southwest" : {
+            "lat" : 42.00319912010728,
+            "lng" : 21.39340932010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Sidro 2",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100235637045537903321\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyZiKUfk9zfPWu45sjd4WxBzPC8jo6EM4bjluPd2oDjX1x0uu3yfl9JtMW13Vch_cA0VjEXgq6j3W-fLPDy9o9KzJXUeFtFfZCmIGSrtFodzivxt_ILwtPeeit37Roj6xGSqgHymHSPLtVeYEJIrLC_j0dBBlgK4FWPiri_8wZYw1-P",
+          "width" : 960
+        }
+      ],
+      "place_id" : "ChIJff6HYW4UVBMR9nr5MjZGj-w",
+      "plus_code" : {
+        "compound_code" : "293V+QV Skopje",
+        "global_code" : "8GJ3293V+QV"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJff6HYW4UVBMR9nr5MjZGj-w",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1141,
+      "vicinity" : "Nikola Rusinski 21, Skopje"
+    }
+  ],
+  "status" : "OK"
+}

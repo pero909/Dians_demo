@@ -1,0 +1,630 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0012538,
+          "lng" : 21.3976079
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00263207989273,
+            "lng" : 21.39896422989272
+          },
+          "southwest" : {
+            "lat" : 41.99993242010728,
+            "lng" : 21.39626457010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Gym „Strong“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1600,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105252301606498075496\"\u003ebodybuilding and fitness club STRONG\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzXg9Wgcj1qOo2Xm5cKNYUbrA_tFrilvHaLmpmCq43e832aSxupaLEmLh9cA9j6cavNUJhoBK6fFOW7JRn11PqAlOqswH-FDR9lSCZVls6HvvkGauuLq356r3tw0BEvdUvW5iCR_H-dgUK1-vA8nYBaTj9XzMGrFIOOgNFYBOeoBoHA",
+          "width" : 1200
+        }
+      ],
+      "place_id" : "ChIJ97iSeWwUVBMRR46YumYRewI",
+      "plus_code" : {
+        "compound_code" : "292X+G2 Skopje",
+        "global_code" : "8GJ3292X+G2"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ97iSeWwUVBMRR46YumYRewI",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 78,
+      "vicinity" : "Petre Piruze St, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.00267789999999,
+          "lng" : 21.3952984
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00402772989271,
+            "lng" : 21.39664822989272
+          },
+          "southwest" : {
+            "lat" : 42.00132807010727,
+            "lng" : 21.39394857010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Pilates Point",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1066,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100631488935150298189\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzOnRkU3EixblDDmcRemRjyj0pTFSGA_iG_P5w4x2Y1DzNoJdhw326u1AdY2y9w4qBw5eBHF9LDSxWoOo9PLgP4JMkJYho3Xp1S92nOUsQH_HG7vxKbQxEmgWDO5wy87INs5AsNn9GYDx-pKwutL0tPA9n-wXsG1w7kWj9Gg9Vn7hlm",
+          "width" : 852
+        }
+      ],
+      "place_id" : "ChIJoUZbXiwVVBMRYyV3UAgz50g",
+      "plus_code" : {
+        "compound_code" : "293W+34 Skopje",
+        "global_code" : "8GJ3293W+34"
+      },
+      "rating" : 5,
+      "reference" : "ChIJoUZbXiwVVBMRYyV3UAgz50g",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 55,
+      "vicinity" : "Blvd Partizanski Odredi 107, Skopje 1000 MK, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9994263,
+          "lng" : 21.4008494
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00078437989272,
+            "lng" : 21.40213522989272
+          },
+          "southwest" : {
+            "lat" : 41.99808472010728,
+            "lng" : 21.39943557010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Legion",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110281686960822679653\"\u003egjoko petkovski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwDu-lzMD9yYcKK-loDrWJZl3QIyEiKeHZris_-VX5YpUr6tmECZNcSrDB57hpU0NM1GIPjpLv3KGOW99SXihQBDrQnN8EUSRUpMlv3BGwrP3X-0SpW30XIz2eVhji0LagNPT9V-SCEU04K8VDJRAqnlRh6nqLeuCJ11RlzXjmAkyo5",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJAQDQ4WoUVBMRgCwdazwDR1A",
+      "plus_code" : {
+        "compound_code" : "XCX2+Q9 Skopje",
+        "global_code" : "8GH3XCX2+Q9"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJAQDQ4WoUVBMRgCwdazwDR1A",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 53,
+      "vicinity" : "Pariska 22, Skopje 1000, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0073118,
+          "lng" : 21.3763671
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00862082989272,
+            "lng" : 21.37778372989272
+          },
+          "southwest" : {
+            "lat" : 42.00592117010728,
+            "lng" : 21.37508407010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "FITNESS CLINIC",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 6528,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112470714097022534093\"\u003eNikola Nastevski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzo7m5rW7GS0sQLQZRCRIovHojgNShP3RG_l-nXy_cJ_lH2IW83-5b__jkukZpxuRNaNM9jlNdhWwKnQRGOiAuYWqCdx8kNgTXpLByyKg2Y-P8Vqf9duGDSN4N_2EmRPZMKlFZ-5-_e74VizOiE1-wmD2yxb7b-L1BhVbPNt1hLUd9F",
+          "width" : 4896
+        }
+      ],
+      "place_id" : "ChIJg437aHYTVBMR4S5pXS6U2Og",
+      "rating" : 4.7,
+      "reference" : "ChIJg437aHYTVBMR4S5pXS6U2Og",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 22,
+      "vicinity" : "294G+WGH, France Preshern, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9956185,
+          "lng" : 21.4123866
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99684272989272,
+            "lng" : 21.41370622989272
+          },
+          "southwest" : {
+            "lat" : 41.99414307010728,
+            "lng" : 21.41100657010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Kinetics Fitness Studio",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJsdW2eRQUVBMRVIHi6CfH4DA",
+      "plus_code" : {
+        "compound_code" : "XCW6+7X Skopje",
+        "global_code" : "8GH3XCW6+7X"
+      },
+      "rating" : 5,
+      "reference" : "ChIJsdW2eRQUVBMRVIHi6CfH4DA",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 20,
+      "vicinity" : "Mitropolit Teodosij Gologanov 132, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.00506619999999,
+          "lng" : 21.3845831
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00634832989272,
+            "lng" : 21.38591612989272
+          },
+          "southwest" : {
+            "lat" : 42.00364867010727,
+            "lng" : 21.38321647010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Fitness Forma",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3625,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103309203232238682957\"\u003eNikola Chamushev\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDxKen_l1msgcDOr7oTHEzEyKI1hfBM0qHctoRL6RTLsHVSy4SGGCcLEA_vPNsRetQMdGzkC0MARpnx3G7LKm7CuJTIAboOssFWGJ624If6fRvZr6H2otTN2aFaQBWm-H1b51pSii6gVCukdiCFKfldesl66FeKllEttiSwAdHhBHt9W",
+          "width" : 5424
+        }
+      ],
+      "place_id" : "ChIJsa6IHSYVVBMRPf2w26T82_8",
+      "plus_code" : {
+        "compound_code" : "294M+2R Skopje",
+        "global_code" : "8GJ3294M+2R"
+      },
+      "rating" : 5,
+      "reference" : "ChIJsa6IHSYVVBMRPf2w26T82_8",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 14,
+      "vicinity" : "Antiko, Blvd. Partizanski Odredi 88, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0057602,
+          "lng" : 21.3826714
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00703902989272,
+            "lng" : 21.38373477989272
+          },
+          "southwest" : {
+            "lat" : 42.00433937010727,
+            "lng" : 21.38103512010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Fitness Challenge",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1836,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108448793479581317877\"\u003esaso danevski\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzdfrcTgJVM00CaewSkOiA31kNUzUAtOVxjIUwBwZSOL1P6rARzdeV9prA66D8Jrm6gVitnKKBz-oeFMT98bAKPOnOQg_XS3X0TeE4_nmqTLQY0jJVYUmtFj5GzGDn0y_35uv-FsozTXOqOB-MpS-moBxQm6FKRk1vURnVGezzgu1up",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJjZLbowIVVBMRAv6kagkrmmE",
+      "plus_code" : {
+        "compound_code" : "294M+83 Skopje",
+        "global_code" : "8GJ3294M+83"
+      },
+      "rating" : 4.9,
+      "reference" : "ChIJjZLbowIVVBMRAv6kagkrmmE",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "MK, Nikola Parapunov 11, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9966995,
+          "lng" : 21.4154198
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99804497989272,
+            "lng" : 21.41683447989272
+          },
+          "southwest" : {
+            "lat" : 41.99534532010728,
+            "lng" : 21.41413482010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Fitness Club Fit",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101335759543503399484\"\u003eFitness club FIT\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyg3YWsqRNcSEjA_32URiGPIM_AhXGN2R1j1nWg-6ztEoJbFQU1MYtIMbpj43bY3M0ue8xyiUF08KS2qRZvylNo_pNFuBOt9RDbVxmGlTaV6VxTFuDl9oKSd1PWCDllXjaxEsz7nZzKGTgrp9-YATgKJTmAKJ7hpCEV7I4oL2f2vU33",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJUzGr10cUVBMR5ri0YBTt3c0",
+      "plus_code" : {
+        "compound_code" : "XCW8+M5 Skopje",
+        "global_code" : "8GH3XCW8+M5"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJUzGr10cUVBMR5ri0YBTt3c0",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 100,
+      "vicinity" : "9-ti Maj, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9917791,
+          "lng" : 21.3929299
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99317467989272,
+            "lng" : 21.39430522989272
+          },
+          "southwest" : {
+            "lat" : 41.99047502010728,
+            "lng" : 21.39160557010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "ATG Macedonia Gym",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2703,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101817438451480398530\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyH7Z1PBA4V3Th5Z8xCuppgNxqdj1R4VNCqQEbMSQDX4AqYDA4tvcrQNVZUudt1HmrKq5Hn6ui6L8YiwtOpwK6tECsfjSI-7ET4dnG52-eN-TjxPC62MDx6VMUeFwB_1iKSPrTed81xxk1mrwZr2qOh4D1CBMikz61JVrbhqPto_bp9",
+          "width" : 4054
+        }
+      ],
+      "place_id" : "ChIJl5AFokwVVBMRhJmh6D7Ifzc",
+      "plus_code" : {
+        "compound_code" : "X9RV+P5 Skopje",
+        "global_code" : "8GH3X9RV+P5"
+      },
+      "rating" : 5,
+      "reference" : "ChIJl5AFokwVVBMRhJmh6D7Ifzc",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 54,
+      "vicinity" : "MK MK, Jan Hus 33, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9979143,
+          "lng" : 21.3848766
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99920017989271,
+            "lng" : 21.38621282989272
+          },
+          "southwest" : {
+            "lat" : 41.99650052010727,
+            "lng" : 21.38351317010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Kan Gym",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJQ1X7jBIUVBMRkr_XnXZqstE",
+      "plus_code" : {
+        "compound_code" : "X9XM+5W Skopje",
+        "global_code" : "8GH3X9XM+5W"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJQ1X7jBIUVBMRkr_XnXZqstE",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 8,
+      "vicinity" : "Jurij Gagarin 66, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9923748,
+          "lng" : 21.4119503
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99362107989272,
+            "lng" : 21.41312277989272
+          },
+          "southwest" : {
+            "lat" : 41.99092142010727,
+            "lng" : 21.41042312010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "EMS Fitness",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 800,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115124340973993311843\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDy-BU8ej1G133DiVNO2aWTnihfefFnJHO0RieuuUefYQqK6W2GVvqxuNakdTmQaVgG9vHwvI-79DHbxxNRc5u47PDkHNXLLn4GAZSxJuYNmIhqEIOiDK-Ma_vW5fhA2JGMtZTQRDT86QPe3qcio_PzYoMQJ-IquSSQ4AdVNNmdiptug",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJb4uGcX8VVBMRqy-1lJb_iE8",
+      "plus_code" : {
+        "compound_code" : "XCR6+WQ Skopje",
+        "global_code" : "8GH3XCR6+WQ"
+      },
+      "rating" : 5,
+      "reference" : "ChIJb4uGcX8VVBMRqy-1lJb_iE8",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 18,
+      "vicinity" : "MK MK, Zagrebska 28, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0090736,
+          "lng" : 21.4042897
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01041772989272,
+            "lng" : 21.40575567989272
+          },
+          "southwest" : {
+            "lat" : 42.00771807010727,
+            "lng" : 21.40305602010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "FitHub",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3264,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117273480589788509546\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwWRAgVbO1lLhQZ4L4a7qW93Mk1W5IhcNdcm_cHzXayXNvX62BLwv9Z2f67H_bzTPrxquB1IcdvVUIbQVhCqeby81NNz1G0Datzx8K3tcukvpJ7rHxkhm7bIxy09WCdtuA64CAGXtrYwNT_m2NkcpUcXxrXZp47xdYqwzwAyf8sGsQ_",
+          "width" : 2448
+        }
+      ],
+      "place_id" : "ChIJ-SwjcYUVVBMRvxLVOmJAcxk",
+      "plus_code" : {
+        "compound_code" : "2C53+JP Skopje",
+        "global_code" : "8GJ32C53+JP"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ-SwjcYUVVBMRvxLVOmJAcxk",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 7,
+      "vicinity" : "Булевар 8ми Септември бр.13 MK, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.996277,
+          "lng" : 21.3958216
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99773352989272,
+            "lng" : 21.39720357989272
+          },
+          "southwest" : {
+            "lat" : 41.99503387010728,
+            "lng" : 21.39450392010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Fit One - OU Vlado Tasevski",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJIaBNpxMUVBMRGMHq-hL2zjE",
+      "plus_code" : {
+        "compound_code" : "X9WW+G7 Skopje",
+        "global_code" : "8GH3X9WW+G7"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJIaBNpxMUVBMRGMHq-hL2zjE",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "Улица Миле Попјорданов 74, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9969611,
+          "lng" : 21.4039455
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99832082989273,
+            "lng" : 21.40520357989272
+          },
+          "southwest" : {
+            "lat" : 41.99562117010728,
+            "lng" : 21.40250392010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Play Fit Move Fitness & Wellness",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109885143821420623991\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwL9IHqAgahmqI4uXlzHyotv8T5geH0au4blEEfoChg0Hn4ORtt9t9Llx3jSwMQJva-t2mchezMcVepw0mF26nyjlZQkESUJc2Wr7Bxrj8_NExo1kdNE5ILGtwLzUF9mRrukY9vrv88S6-jeNZukD2Gnk9qYvpy68HMzhkgiX-ZRLHU",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJx0JkAEAUVBMRIS8UIw5Ihak",
+      "plus_code" : {
+        "compound_code" : "XCW3+QH Skopje",
+        "global_code" : "8GH3XCW3+QH"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJx0JkAEAUVBMRIS8UIw5Ihak",
+      "scope" : "GOOGLE",
+      "types" : [ "spa", "gym", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 43,
+      "vicinity" : "MK, Boulevard 8-mi Septemvri 2/2, Skopje"
+    }
+  ],
+  "status" : "OK"
+}
