@@ -43,7 +43,7 @@ public class LocationController {
     public String loadMapPage(Model model) throws IOException, ParseException {
         List<Location> locations= this.locationService.findAll();
         model.addAttribute("hotelList",locations);
-
+//4,7+13.449+
         return "proba";
     }
 
@@ -64,8 +64,7 @@ public class LocationController {
         String username = request.getParameter("username");
         String password= request.getParameter("password");
         try {
-            User user = this.authenticationService
-                    .findByUsernameAndPassword(username, password).orElse(null);
+            User user=this.authenticationService.login(username,password);
             request.getSession().setAttribute("user",user);
 
             return "redirect:/Navster/Map";
