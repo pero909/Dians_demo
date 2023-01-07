@@ -32,7 +32,10 @@ public class LocationController {
         this.authenticationService = authenticationService;
     }
     @GetMapping()
-    public String loginPage(){
+    public String loginPage(Model model,HttpServletRequest request
+            ,@RequestParam(required = false) String error_login){
+        model.addAttribute("hasError_login",true);
+        model.addAttribute("error_login",error_login);
         return "login";
     }
 
@@ -60,11 +63,20 @@ public class LocationController {
     public String login(Model model, HttpServletRequest request){
         String username = request.getParameter("username");
         String password= request.getParameter("password");
-        User user = this.authenticationService.findByUsernameAndPassword(username,password).orElse(null);
-        request.getSession().setAttribute("user",user);
+        try {
+            User user = this.authenticationService
+                    .findByUsernameAndPassword(username, password).orElse(null);
+            request.getSession().setAttribute("user",user);
+
+            return "redirect:/Navster/Map";
+        }catch (Exception e){
+            return "redirect:/Navster/login?error_login=" + e.getMessage();
+
+        }
 
 
-        return "redirect:/Navster/Map";
+
+
     }
     @GetMapping("/signUp")
     public String signUpError(Model model,@RequestParam(required = false)String error,

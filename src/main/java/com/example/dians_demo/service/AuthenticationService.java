@@ -8,4 +8,5 @@ public interface AuthenticationService {
     Optional<User> findByUsernameAndPassword(String username,String password);
     void save(String username,String password);
     void signUp(String username,String password,String repeatPassword);
+    User login(String username,String password);
 }

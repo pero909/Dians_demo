@@ -1,6 +1,7 @@
 package com.example.dians_demo.service.impl;
 
 import com.example.dians_demo.model.Exceptions.PasswordDontMatchException;
+import com.example.dians_demo.model.Exceptions.WrongUserCredentials;
 import com.example.dians_demo.model.User;
 import com.example.dians_demo.repository.jpa.UserRepository;
 import com.example.dians_demo.service.AuthenticationService;
@@ -31,5 +32,12 @@ public class AuthenticationServiceImp implements AuthenticationService {
         if(!password.equals(repeatPassword)){
             throw new PasswordDontMatchException("Passwords Do not match");
         }else this.userRepository.save(new User(username,password));
+    }
+
+    @Override
+    public User login(String username, String password) {
+        User user = this.userRepository.findAllByUsernameAndPassword(username,password)
+                .orElseThrow(()->new WrongUserCredentials("Wrong Username or Password"));
+        return user;
     }
 }

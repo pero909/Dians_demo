@@ -168,6 +168,9 @@
       <div class="sign-in-htm">
         <form th:method="POST" th:action="@{/Navster/login}">
         <div class="group">
+          <div th:if="${hasError_login}">
+            <h5 th:text="${error_login}" ></h5>
+          </div>
           <label  for="username" class="label">Username</label>
           <input name="username" id="username" type="text" class="input">
         </div>
