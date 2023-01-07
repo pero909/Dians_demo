@@ -170,7 +170,7 @@
     let map = L.map('map').setView([41.9981, 21.4254], 13);
     const attribution=
         '&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>';
-    const tileUrl='https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png';
+    const tileUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
     const tiles=L.tileLayer(tileUrl,{attribution});
     tiles.addTo(map);
 
