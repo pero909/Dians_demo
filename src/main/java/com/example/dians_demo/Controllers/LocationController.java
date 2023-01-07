@@ -69,7 +69,7 @@ public class LocationController {
 
             return "redirect:/Navster/Map";
         }catch (Exception e){
-            return "redirect:/Navster/login?error_login=" + e.getMessage();
+            return "redirect:/Navster?error_login=" + e.getMessage();
 
         }
 
