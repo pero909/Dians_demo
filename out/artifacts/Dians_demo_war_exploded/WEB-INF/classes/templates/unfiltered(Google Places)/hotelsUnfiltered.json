@@ -1,0 +1,824 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9929935,
+          "lng" : 21.4075309
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99430962989272,
+            "lng" : 21.40893242989272
+          },
+          "southwest" : {
+            "lat" : 41.99160997010728,
+            "lng" : 21.40623277010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Garden Spa“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1816,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113448182708265870013\"\u003eSergo Napoca\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDxuDStitVNggHaIVy0fexsXoPS2YLlnUYgwUWa-Y0tppVBGSSnlzlxGXu2mc-4yOsszjnEzLK1z74jORExw4zLB0h1hk8fa0pjxrlZH50L6JqgldnVIcQvIPiEKNpME0q9HgE56PIALK9F6oK8m1PPaiu2WYSNZ5gjMJc3m_D_JRFXj",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJs_q-2T4UVBMRIJvk8ndExxo",
+      "plus_code" : {
+        "compound_code" : "XCV5+52 Skopje",
+        "global_code" : "8GH3XCV5+52"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJs_q-2T4UVBMRIJvk8ndExxo",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 151,
+      "vicinity" : "Lerinska 2, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0018287,
+          "lng" : 21.4074628
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00319902989272,
+            "lng" : 21.40866772989272
+          },
+          "southwest" : {
+            "lat" : 42.00049937010728,
+            "lng" : 21.40596807010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Karpoš“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2723,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116647701492246965139\"\u003eMorten Strunge Meyer\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx8FC33U-kiFWiXoA1eY-sRszFb2xY9gVjBUDt0FWzTz4kG21C5LL7NWJ5t_NrQOmSrOxyCFpG49_wQpR-aphxfi2Hs0BSH0Bv4KPQt_sEkMfOtRK6zQulIN6q3kEmFmlKCOgkHDgmlwMs69YKUnac4_86TSTyNnvb7CjGZmBOgCXBK",
+          "width" : 4798
+        }
+      ],
+      "place_id" : "ChIJHSTrxUMUVBMR3H4rusZRu2A",
+      "plus_code" : {
+        "compound_code" : "2C24+PX Skopje",
+        "global_code" : "8GJ32C24+PX"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJHSTrxUMUVBMR3H4rusZRu2A",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 637,
+      "vicinity" : "Sekspirova bb,, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0139639,
+          "lng" : 21.402923
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01534467989273,
+            "lng" : 21.40406307989272
+          },
+          "southwest" : {
+            "lat" : 42.01264502010729,
+            "lng" : 21.40136342010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Portal“",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101611403661496838142\"\u003eAlexandr Dimitrov\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDy-f5qEEB-ieOSrJ1w138ouk0YRwrGuvlPAbI05zAFChNdQsLIuvEApfnKv2X931XS8NzTJ4flalSf-RMvfzrfXR-p59FP1v2HlPBw_A8KEuFsq4Ty8uEAp01tjekyApCg9xgatszCXFCIlA023xcnuPp5OYKY9U5R4EE63FX2825ZX",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJO9eqfGAUVBMRMqtRuL3bguE",
+      "plus_code" : {
+        "compound_code" : "2C73+H5 Skopje",
+        "global_code" : "8GJ32C73+H5"
+      },
+      "rating" : 4,
+      "reference" : "ChIJO9eqfGAUVBMRMqtRuL3bguE",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 158,
+      "vicinity" : "hotelportalskopje@hotmail.com, Skupi 27, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0141642,
+          "lng" : 21.4082472
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01549822989272,
+            "lng" : 21.40941902989272
+          },
+          "southwest" : {
+            "lat" : 42.01279857010728,
+            "lng" : 21.40671937010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Story“",
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106689685333400164246\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyOwp6M6lD8O0tgixW4GQ17H4WbkNe0CI11NNwsPrtUtXKzw8HjonFDLu5-ZJz_Yego3W76s5fISIS45Cu2BWmpOvNbVcNdMInMe0ruMXsHdOpl4oxMSTaFXJWRSQHcfpVbMv9PCFclYbbo0qMC8kMaZshGHlQCzcYihxtZWv7F_nc2",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJ8Vsw-vUUVBMRh1o9cf2XYd0",
+      "plus_code" : {
+        "compound_code" : "2C75+J9 Skopje",
+        "global_code" : "8GJ32C75+J9"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJ8Vsw-vUUVBMRh1o9cf2XYd0",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 11,
+      "vicinity" : "MK, Boulevard 8-mi Septemvri 40, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0107872,
+          "lng" : 21.4055954
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01212637989272,
+            "lng" : 21.40712407989272
+          },
+          "southwest" : {
+            "lat" : 42.00942672010728,
+            "lng" : 21.40442442010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Aleksandar Palace“",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116251721467379184907\"\u003eDanilo Milic\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx2lECsMox1SZNDB5WzkDPzPyPiInZKC_qqanfjz4zwzhNt8b64KIoHqgbgobEanVXBhu2g-LbQN16xc3IRN5BSfVUOyFYDkP84sCo8KVZM_iSNIFPpY4TnfZunDXFCkcGv4Mrom5o4i4JuKTZY3Bw7ayatd1YzxJ6BMH3_xJz_g77n",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ-R3fvakVVBMRPygFswSUpYk",
+      "rating" : 4.4,
+      "reference" : "ChIJ-R3fvakVVBMRPygFswSUpYk",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1128,
+      "vicinity" : "2C64+869, Prohor Pcinjski, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9942664,
+          "lng" : 21.4067604
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99564667989272,
+            "lng" : 21.40811747989272
+          },
+          "southwest" : {
+            "lat" : 41.99294702010728,
+            "lng" : 21.40541782010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Kozle“",
+      "photos" : [
+        {
+          "height" : 1956,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103894399570701326991\"\u003ehüseyin çakmak\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwnA-kYIjDV2RG5CFlyPZ0fWr4GGKMMciC6or2NEYBBt_V41Xk51LV8M70iTnrymt4XUecvO1W1LoyEW3X2qiBHvo01G4A0ywocijMBixjo18MlSA90CzIjx1WfB0Dvlg9y1JxCIlYtrLLxrsXP5CTvW-_fMSiZs4egznDIO8qHkKpn",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJjXCFAD8UVBMRCEQU06k1neA",
+      "plus_code" : {
+        "compound_code" : "XCV4+PP Skopje",
+        "global_code" : "8GH3XCV4+PP"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJjXCFAD8UVBMRCEQU06k1neA",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 19,
+      "vicinity" : "Mile Pop Jodranov 3A, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9971103,
+          "lng" : 21.3925394
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99848347989272,
+            "lng" : 21.39388632989272
+          },
+          "southwest" : {
+            "lat" : 41.99578382010728,
+            "lng" : 21.39118667010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Elizabeth",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2604,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107463880892431839515\"\u003eolda z\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx7J_9kCOWjwXOeUFQSmzJ7caGUBRzlDccYYxAw7yCmZY_eSfP8v08pWeFfxOa2rAtQT6dw0QBylL6RJLG54WAF3_-laJlLZNcvbu5qMXTPFXJ3q6p98wNeWpOc0xClizpbJxdGfW35uniY76jV8JCojsRBlje0J9p6XDwjLgpickLK",
+          "width" : 4624
+        }
+      ],
+      "place_id" : "ChIJ09MehhIUVBMRlFqgdqK0-Tg",
+      "rating" : 4.2,
+      "reference" : "ChIJ09MehhIUVBMRlFqgdqK0-Tg",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 219,
+      "vicinity" : "X9WV+R2M, Jurij Gagarin, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0156235,
+          "lng" : 21.3976623
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.01698107989272,
+            "lng" : 21.39904127989272
+          },
+          "southwest" : {
+            "lat" : 42.01428142010728,
+            "lng" : 21.39634162010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Evro Set“",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2250,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102344490727545807534\"\u003eApostolis Efstathiadis\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx9TY2O_jFXrt59ePaZM2KTYCVjRg7PlsnZYVkVmfamAwDerpMRITbLkoMTUZUVZ7CPNlxqU8GCKBeuRlxH8d2lLGNh_1Laf0qLeCXpp6tD5KKfwIdIjQVmsYE4Xg8t8LsJzzAz4wQ1vkkwJBX6dRdX65aG56kY-gGVmCvsyyQpOkOO",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJXxWBiGEUVBMRJDP7WFbqvpw",
+      "plus_code" : {
+        "compound_code" : "298X+64 Skopje",
+        "global_code" : "8GJ3298X+64"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJXxWBiGEUVBMRJDP7WFbqvpw",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 231,
+      "vicinity" : "Skupi, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9941558,
+          "lng" : 21.4072955
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99551352989272,
+            "lng" : 21.40868757989272
+          },
+          "southwest" : {
+            "lat" : 41.99281387010728,
+            "lng" : 21.40598792010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Pine“",
+      "photos" : [
+        {
+          "height" : 478,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107224155421361612024\"\u003eHotel Pine, Skopje\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDxOcL7lzrEE2kZHVSMuKCUzhawYWqn_jtUB_SKtfG8s4ZCQ-U1E0hQr0UDhSpiH-0Att_v5x_S6906ZNmj3jg0J0drLdzUasssYx0Z08OZTR1H2HxbrczKfqE56RouGXTW8hIRQKymMPmoXwJxi4wgd3nHLHS7P7r93KdS4mhUWALP-",
+          "width" : 330
+        }
+      ],
+      "place_id" : "ChIJ4c44nBUUVBMRFmo9PaarA9w",
+      "plus_code" : {
+        "compound_code" : "XCV4+JW Skopje",
+        "global_code" : "8GH3XCV4+JW"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ4c44nBUUVBMRFmo9PaarA9w",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 173,
+      "vicinity" : "Mile Pop Jordanov 1 b, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9946189,
+          "lng" : 21.3999069
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99600897989272,
+            "lng" : 21.40126642989272
+          },
+          "southwest" : {
+            "lat" : 41.99330932010728,
+            "lng" : 21.39856677010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Living Rooms apartments",
+      "photos" : [
+        {
+          "height" : 1791,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107688011202904914843\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyQIwTyY_svBDAmfEue3TNEhNy8ehLmGVTql7D4J6G1ceOMjqsQ3Ye345jIbe1VFuwIpO0wnaffomMEWVFQ4RO9rhnQQmovBRhBAbHIEWpb702Zgr8YBtvhIHJG7FWQGQ6i-vTjBAAO82gmhIX6DPVWIiJfM8BPEIwOHXXX7tBd2IWm",
+          "width" : 1440
+        }
+      ],
+      "place_id" : "ChIJtc11fLgVVBMRPWgu7EpWIHQ",
+      "plus_code" : {
+        "compound_code" : "X9VX+RX Skopje",
+        "global_code" : "8GH3X9VX+RX"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJtc11fLgVVBMRPWgu7EpWIHQ",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 11,
+      "vicinity" : "Dzumajska 21b, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9941525,
+          "lng" : 21.4068593
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99558242989271,
+            "lng" : 21.40822732989272
+          },
+          "southwest" : {
+            "lat" : 41.99288277010727,
+            "lng" : 21.40552767010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Kapištec“",
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111511702539219326120\"\u003eNurten Çalışkan\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDy0HEBNh1IqNu3DzwfzqDKVoFdAcaMwYj6dLWODk0tyxgYhs5U1vIcgXAicg9PFpk9bvBTfBVKQ0WVc47Fd_RCGUxxwvbquGwgA4StWXxTHLmhHYQwKtnIpbqN08uD-8BAQYimv-0wVRdxfDdT57fgkhIerbbzEZb3OI76TYHk8VVKY",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJtdM5AD8UVBMRk0DTHWCrvls",
+      "plus_code" : {
+        "compound_code" : "XCV4+MP Skopje",
+        "global_code" : "8GH3XCV4+MP"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJtdM5AD8UVBMRk0DTHWCrvls",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 69,
+      "vicinity" : "MK, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9942735,
+          "lng" : 21.412573
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99569382989272,
+            "lng" : 21.41394352989272
+          },
+          "southwest" : {
+            "lat" : 41.99299417010728,
+            "lng" : 21.41124387010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Magnolia Apartments",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115057586078553661948\"\u003eKris Tashev\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDyri4V3w3_IJiktcqTs0z2fV6KvH274_pjU1SjDoZgl5LPSafxG9s-7b4IXwHRP5la5R0Ee1PP3OJDSX2EQ2m6FlCgXp_YcZUX0vLIp5H8BCiukl2gfZF4Y_qDxcvX6ieAQemAU8lekVD1G3UV5plgEC489RktyIYMKP39raZH0Wd94",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJZ49fijgUVBMRd1SPP5y5j_A",
+      "plus_code" : {
+        "compound_code" : "XCV7+P2 Skopje",
+        "global_code" : "8GH3XCV7+P2"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJZ49fijgUVBMRd1SPP5y5j_A",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "Naroden Front 35/2, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9905891,
+          "lng" : 21.4139369
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99198382989272,
+            "lng" : 21.41529822989272
+          },
+          "southwest" : {
+            "lat" : 41.98928417010728,
+            "lng" : 21.41259857010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Aristocrat“",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116698784066342508385\"\u003eVladimir Nikolov\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDxxWnqVVDG6LpPHtc1ENaZWCVmC221aqnYvnpqnN9G_RpHg6DuFbiFOvpYbGPfVmvhtVVgVnRGLaDXR70oku262DNjTAo4m8l5xT6VzQndfD_lW_IC4trJtgiA_d668A7JMW8wCtUzkPftR7y45bJlfqZYHHdvCKCpF1v6r0qaKS2GX",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ-1OvRTcUVBMRUnNCijuIbi8",
+      "plus_code" : {
+        "compound_code" : "XCR7+6H Skopje",
+        "global_code" : "8GH3XCR7+6H"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ-1OvRTcUVBMRUnNCijuIbi8",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 388,
+      "vicinity" : "Elisie Popovski Marko 59, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.990171,
+          "lng" : 21.406125
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99152922989273,
+            "lng" : 21.40742287989272
+          },
+          "southwest" : {
+            "lat" : 41.98882957010728,
+            "lng" : 21.40472322010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "ARS Rooms & Apartments Skopje",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1728,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108789293703334600334\"\u003eARS Hostel\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzC4f0omnJPJG50w8jiQWeKzu77oeTKXP_q9caJIQcnHbM3AGvkMG-L5u0stnY9lFr7OWFOxI_b9iYVSEKJFBomMDxt6xrY8kopz0cyog6DwecQWlkkgRIioQ5NzSYcDm3DDFIDcXWXTsX-bOD2pXgaILcTSsmJq_EgFd1gqeBn4spm",
+          "width" : 3072
+        }
+      ],
+      "place_id" : "ChIJ11w_sD0UVBMR5OCN52GnRzM",
+      "plus_code" : {
+        "compound_code" : "XCR4+3C Skopje",
+        "global_code" : "8GH3XCR4+3C"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ11w_sD0UVBMR5OCN52GnRzM",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 39,
+      "vicinity" : "Загребска 3, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0009399,
+          "lng" : 21.4149132
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00222077989272,
+            "lng" : 21.41616102989272
+          },
+          "southwest" : {
+            "lat" : 41.99952112010727,
+            "lng" : 21.41346137010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "Hotel „Dolce International“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2861,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112542331391369868817\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDzvQFOps9x79wi2vU61eMeYBqluFGw7Jk1gQB9PEVgKiSCl3Kx7lydfdWSJGgVVFDqzvNvz6GNodioWnSSc2kIb1uPX9V3hfMtsQYl0OtXUIHa1M-loT37cMHgMeYBGN56ESHWTXhuW3nqNjzlW9VIg_0wXpT2inb0RHWMwFRtMl8GR",
+          "width" : 2861
+        }
+      ],
+      "place_id" : "ChIJd92UkkUUVBMR9sjJB7nYVc4",
+      "plus_code" : {
+        "compound_code" : "2C27+9X Skopje",
+        "global_code" : "8GJ32C27+9X"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJd92UkkUUVBMR9sjJB7nYVc4",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 157,
+      "vicinity" : "Partizanska 48, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 42.0040388,
+          "lng" : 21.3978331
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 42.00549762989272,
+            "lng" : 21.39920817989272
+          },
+          "southwest" : {
+            "lat" : 42.00279797010727,
+            "lng" : 21.39650852010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Slatkarnica „Vaflite od Karpoš“",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112871461136040608677\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDx6VA9WsEM1iEoREBA4TLjxV9LgsEq0h8fwb46vpuy5_MwWFUXk6DlaYRX2Cx89Rjq16kst9kDVCOxMGxjeCQhi1v-avyaANer_iTInvG8h24UOSsR83ytoeEBvOC4lFuoaSjZrW-GTFRmXU_O2m9dBdjIFPvlzA4ooSzmEOTWPWrg",
+          "width" : 960
+        }
+      ],
+      "place_id" : "ChIJX9pm0dQVVBMRcd46kFEXC38",
+      "plus_code" : {
+        "compound_code" : "293X+J4 Skopje",
+        "global_code" : "8GJ3293X+J4"
+      },
+      "rating" : 0,
+      "reference" : "ChIJX9pm0dQVVBMRcd46kFEXC38",
+      "scope" : "GOOGLE",
+      "types" : [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 0,
+      "vicinity" : "MK, Nikola Rusinski 3b, Skopje"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9970727,
+          "lng" : 21.4039815
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99843282989272,
+            "lng" : 21.40523582989272
+          },
+          "southwest" : {
+            "lat" : 41.99573317010728,
+            "lng" : 21.40253617010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "TCC Grand Plaza",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105264490314192921410\"\u003eVladimir Stanojlovic\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDwJH9N7nwD7jem1uRmVWBKc3a6B1dlcBfBw2XDoj8TpX1u_SzQ__RsI6T_8WXA-9Gt464XhAXLsUvr6XogLKLBiPIYic4_zAaCtg1ZBC8WpfmRk7ecL6ige7dCATCLVWfuKLqGFk0pqWWxmGsh837Cx7DR0WeRPU0_lOZ_CwgIgUfJ3",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJQytL_z8UVBMRmZH-Na5Pyes",
+      "plus_code" : {
+        "compound_code" : "XCW3+RH Skopje",
+        "global_code" : "8GH3XCW3+RH"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJQytL_z8UVBMRmZH-Na5Pyes",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 476,
+      "vicinity" : "Bul MK Октомвриска Револуција 2 Скопје MK"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 41.9984831,
+          "lng" : 21.3922825
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 41.99989232989271,
+            "lng" : 21.39371707989272
+          },
+          "southwest" : {
+            "lat" : 41.99719267010727,
+            "lng" : 21.39101742010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color" : "#909CE1",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name" : "ibis Styles Skopje",
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104391182444772211195\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AW30NDw2mQtGw4l76R5IfLKTAgSyN-IZIpsmARYCqGXzGqVxH7NV4g1L-BWHq5gq3lj0VUGXetga42XP3aknFdT6Oq4yuiUagAatHlpQcWKv1w9q8tPkV1GFkDKHncJJ1MbejgmVmXtILBvt8tr013gV9eEYguyjzoJQ6lAl48OAkKp0HQTh",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJSXtypBIUVBMRcSgGqrNiDac",
+      "plus_code" : {
+        "compound_code" : "X9XR+9W Skopje",
+        "global_code" : "8GH3X9XR+9W"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJSXtypBIUVBMRcSgGqrNiDac",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 116,
+      "vicinity" : "Лондонска 19, Skopje"
+    }
+  ],
+  "status" : "OK"
+}
