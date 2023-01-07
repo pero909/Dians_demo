@@ -36,7 +36,7 @@ public class AuthenticationServiceImp implements AuthenticationService {
 
     @Override
     public User login(String username, String password) {
-        User user = this.userRepository.findAllByUsernameAndPassword(username,password)
+        User user = this.userRepository.findByUsernameAndPassword(username,password)
                 .orElseThrow(()->new WrongUserCredentials("Wrong Username or Password"));
         return user;
     }
