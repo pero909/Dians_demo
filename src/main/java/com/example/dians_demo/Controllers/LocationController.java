@@ -2,7 +2,6 @@ package com.example.dians_demo.Controllers;
 
 import com.example.dians_demo.model.Enum.LocationEnum;
 import com.example.dians_demo.model.Location;
-import com.example.dians_demo.service.AuthenticationService;
 import com.example.dians_demo.service.LocationService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.json.simple.JSONArray;
@@ -27,10 +26,7 @@ public class LocationController {
 
     public LocationController(LocationService locationService) {
         this.locationService = locationService;
-
     }
-
-
 
     @GetMapping({"/Map",""})
     public String loadMapPage(Model model) throws IOException, ParseException {
