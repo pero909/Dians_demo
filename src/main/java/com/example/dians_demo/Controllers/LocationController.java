@@ -23,11 +23,11 @@ import java.util.List;
 public class LocationController {
 
     private final LocationService locationService;
-    private final AuthenticationService authenticationService;
 
-    public LocationController(LocationService locationService, AuthenticationService authenticationService) {
+
+    public LocationController(LocationService locationService) {
         this.locationService = locationService;
-        this.authenticationService = authenticationService;
+
     }
 
 
