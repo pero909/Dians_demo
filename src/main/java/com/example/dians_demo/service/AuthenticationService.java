@@ -1,7 +1,5 @@
 package com.example.dians_demo.service;
 
-import com.example.dians_demo.model.User;
-
 import java.util.Optional;
 
 public interface AuthenticationService {

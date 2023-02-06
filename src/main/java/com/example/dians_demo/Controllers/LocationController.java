@@ -2,11 +2,9 @@ package com.example.dians_demo.Controllers;
 
 import com.example.dians_demo.model.Enum.LocationEnum;
 import com.example.dians_demo.model.Location;
-import com.example.dians_demo.model.User;
 import com.example.dians_demo.service.AuthenticationService;
 import com.example.dians_demo.service.LocationService;
 import jakarta.servlet.http.HttpServletRequest;
-import org.h2.engine.Mode;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -31,15 +29,10 @@ public class LocationController {
         this.locationService = locationService;
         this.authenticationService = authenticationService;
     }
-    @GetMapping()
-    public String loginPage(Model model,HttpServletRequest request
-            ,@RequestParam(required = false) String error_login){
-        model.addAttribute("hasError_login",true);
-        model.addAttribute("error_login",error_login);
-        return "login";
-    }
 
-    @GetMapping("/Map")
+
+
+    @GetMapping({"/Map",""})
     public String loadMapPage(Model model) throws IOException, ParseException {
         List<Location> locations= this.locationService.findAll();
         model.addAttribute("hotelList",locations);
@@ -59,47 +52,7 @@ public class LocationController {
 
         return "proba";
     }
-    @PostMapping({"/login","/"})
-    public String login(Model model, HttpServletRequest request){
-        String username = request.getParameter("username");
-        String password= request.getParameter("password");
-        try {
-            User user=this.authenticationService.login(username,password);
-            request.getSession().setAttribute("user",user);
 
-            return "redirect:/Navster/Map";
-        }catch (Exception e){
-            return "redirect:/Navster?error_login=" + e.getMessage();
-
-        }
-
-
-
-
-    }
-    @GetMapping("/signUp")
-    public String signUpError(Model model,@RequestParam(required = false)String error,
-                              HttpServletRequest request){
-        model.addAttribute("hasError",true);
-        model.addAttribute("error",error);
-
-        return "login";
-
-    }
-    @PostMapping("/signUp")
-    public String signup(Model model,HttpServletRequest request
-            ,@RequestParam(required = false) String error){
-        String username = request.getParameter("username_signUp");
-        String password = request.getParameter("password_signUp");
-        String repeatPassword=  request.getParameter("repeatPassword");
-        try{
-            this.authenticationService.signUp(username,password,repeatPassword);
-            return "login";
-        }catch (Exception e){
-              return "redirect:/Navster/signUp?error=" + e.getMessage();
-        }
-
-    }
     @PostMapping
     public String getMapPage(@RequestParam(name = "hotel",required = false) Long id, Model model){
         List<Location> locations= this.locationService.findAll();
@@ -136,11 +89,7 @@ public class LocationController {
          model.addAttribute("locations",locations);
          return "locationTable";
     }
-    @GetMapping("/logout")
-    public String logOut(Model model,HttpServletRequest request){
-        request.getSession().invalidate();
-        return "redirect:/Navster";
-    }
+
     @GetMapping("/populate")
     public String populate() throws IOException, ParseException {
         JSONParser parser= new JSONParser();
