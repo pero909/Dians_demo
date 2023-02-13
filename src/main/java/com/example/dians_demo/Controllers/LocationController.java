@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Controller
-@RequestMapping({"/",""})
+@RequestMapping({"/","","/Navster"})
 public class LocationController {
 
     private final LocationService locationService;
