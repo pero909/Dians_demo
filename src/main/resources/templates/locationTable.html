@@ -276,7 +276,7 @@
          <td th:text="${location.getId()}"></td>
          <td th:text="${location.getName()}"></td>
          <td th:text="${location.getRating()}"></td>
-         <td><a th:href="@{/Navster/Map/{id}(id=${location.getId()})}">View On Map</a></td>
+         <td><a th:href="@{/Map/{id}(id=${location.getId()})}">View On Map</a></td>
        </tr>
   </tbody>
 </table>
